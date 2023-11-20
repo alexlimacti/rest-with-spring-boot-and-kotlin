@@ -1,7 +1,5 @@
 package com.indeas.restspringkotlin.service
 
-import org.springframework.stereotype.Service
-
 object MathService {
 
     fun convertToDouble(strNumber: String?): Double {
